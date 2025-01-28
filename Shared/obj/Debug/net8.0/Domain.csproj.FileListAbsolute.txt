@@ -1,0 +1,15 @@
+C:\Projects\Prof2025\Shared\bin\Debug\net8.0\Domain.deps.json
+C:\Projects\Prof2025\Shared\bin\Debug\net8.0\Domain.dll
+C:\Projects\Prof2025\Shared\bin\Debug\net8.0\Domain.pdb
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\Domain.dll
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\refint\Domain.dll
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\Domain.pdb
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\ref\Domain.dll
+C:\Projects\Prof2025\Shared\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\Prof2025\Shared\obj\Debug\net8.0\Domain.genruntimeconfig.cache
